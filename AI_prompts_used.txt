@@ -1,0 +1,13 @@
+AI Assistance Disclosure
+
+AI tool used: ChatGPT
+
+I used ChatGPT to clarify the workflow and parameter update order of the Gaussian Mixture Model with Expectation Maximization, as well as the calculation and visualization of a confusion matrix. I critically reviewed and verified the resulting explanations and code. The following prompts were used for conceptual clarification:
+
+1. Gaussian Mixture Model with Expectation Maximization
+
+What is the workflow of a Gaussian Mixture Model using Expectation Maximization? Explain the order in which the parameters are updated.
+
+2. Confusion Matrix Calculation and Visualization
+
+How is a confusion matrix calculated? Show how to visualize the confusion matrix in Python using Matplotlib.
